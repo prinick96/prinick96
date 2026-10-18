@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋 , soy Brayan Narváez</h1>
 <h3 align="center">FULL STACK Developer, purista de corazón :heart_on_fire:</h3>
+<p align="center"><a href="https://meatproxy.me/c/d8wex"><img src="https://meatproxy.me/badge/c/d8wex.svg" alt="Certified Thinker" height="32" /></a></p>
 <p align="center">
     <img src="https://cdn.dribbble.com/userupload/2624050/file/original-59266f4dea1c2aa43f2064cc0f3b165a.png?resize=400x0">
 </p>
